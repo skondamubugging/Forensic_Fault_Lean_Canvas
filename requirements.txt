@@ -1,6 +1,0 @@
-streamlit>=1.40
-pandas
-numpy
-requests
-pillow
-pytest
